@@ -1,0 +1,5 @@
+signal,model,MAE,RMSE,test_rows
+demand,LightGBM,4.454,5.636,576
+price,Random_Forest,4.081,10.247,576
+solar,Random_Forest,3.569,6.934,576
+wind,LightGBM,3.153,3.959,576

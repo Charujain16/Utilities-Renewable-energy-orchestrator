@@ -1,0 +1,5 @@
+signal,naive_MAE,lgbm_MAE,naive_RMSE,lgbm_RMSE,improvement_%,p10_p90_coverage_%
+demand,5.88,4.47,7.28,5.58,24.05,70.66
+price,5.6,4.37,15.37,10.44,21.83,70.31
+solar,5.02,3.6,9.78,6.95,28.42,84.55
+wind,17.01,11.99,20.69,14.65,29.53,55.9
